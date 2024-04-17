@@ -13,6 +13,11 @@ body {
     scroll-behavior: smooth;
 }
 
+.card img {
+    height: 10rem;
+    object-fit: cover;
+  }
+
 #barra {
     position: fixed;
     top: 0;
