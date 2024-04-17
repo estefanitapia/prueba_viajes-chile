@@ -10,6 +10,7 @@
 
 body {
     background-color: #000000;
+    scroll-behavior: smooth;
 }
 
 #barra {
@@ -20,4 +21,13 @@ body {
     backdrop-filter: blur(8px);
     background-color: transparent;
     width: 100%;
+}
+
+.ancla {
+    text-decoration: none;
+    color: #fff;
+}
+
+.ancla:hover {
+    color: rgb(201, 201, 201);
 }
