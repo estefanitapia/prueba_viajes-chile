@@ -1,2 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Raleway", sans-serif;
+    color: #ffffff;
+}
+
+body {
+    background-color: #000000;
+}
+
+#barra {
+    position: fixed;
+    top: 0;
+    z-index:100;
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    background-color: transparent;
+    width: 100%;
+}
