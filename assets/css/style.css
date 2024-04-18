@@ -16,7 +16,7 @@ body {
 .card img {
     height: 10rem;
     object-fit: cover;
-  }
+}
 
 #barra {
     position: fixed;
