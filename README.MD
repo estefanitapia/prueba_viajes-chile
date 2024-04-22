@@ -5,7 +5,7 @@
 ### Tipografía utilizada ###
 * Raleway de google fonts
 
-### Paleta le colores en bootstrap ###
+### Paleta de colores en bootstrap ###
 * bg-info 
 * text-white 
 
